@@ -1,0 +1,35 @@
+body{
+    background: #ffbfdb;
+}
+
+#banner {
+    width:100%;
+}
+
+h1 {
+    text-align: center;
+  
+}
+
+p {
+    text-align: center;
+}
+
+#p2 {
+    font-size:25px;
+}
+
+.principal{
+    background: #fe9dc7
+}
+.itens {
+    font-style: italic;
+}
+
+.works {
+    background: rgb(255, 128, 65);
+}
+
+strong {
+    color: #ff006f;
+}
